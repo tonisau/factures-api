@@ -1,0 +1,16 @@
+{
+    "name": "factures-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "json-server factures.json"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "1.0.0",
+        "mem": "^5.1.1"
+    }
+}
